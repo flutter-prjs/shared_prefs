@@ -22,7 +22,7 @@ There are two examples here:
 - Counter example
 - SharedPrefs example
 
-To test the two examples, you have to change the `LoadPage()` to `MyHoemPage()` below to run the Counter example. The `LoadPage()` runs the SharedPrefs example.
+To test the two examples, you have to change the `LoadPage()` to `MyHomePage(title: 'SharedPreferences Demo')` below to run the Counter example. The `LoadPage()` runs the SharedPrefs example.
 
 ```dart
 class MyApp extends StatelessWidget {
